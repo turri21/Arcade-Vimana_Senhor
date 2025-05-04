@@ -1,4 +1,8 @@
+-=(Vimana_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Toaplan (Vimana) FPGA Implementation
 
 FPGA compatible core of Toaplan Version 1 arcade hardware for [**MiSTerFPGA**](https://github.com/MiSTer-devel/Main_MiSTer/wiki) written by [**Darren Olafson**](https://twitter.com/Darren__O). Based on OutZone (TP-018) schematics and verified against Vimana (TP-019).
